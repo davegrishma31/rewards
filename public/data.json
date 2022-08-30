@@ -1,0 +1,262 @@
+[
+    {
+        "customerId": 1,
+        "price": "15"
+    },
+    {
+        "customerId": 2,
+        "price": "125"
+    },
+    {
+        "customerId": 3,
+        "price": "673"
+    },
+    {
+        "customerId": 4,
+        "price": "32"
+    },
+    {
+        "customerId": 5,
+        "price": "116"
+    },
+    {
+        "customerId": 6,
+        "price": "126"
+    },
+    {
+        "customerId": 7,
+        "price": "101"
+    },
+    {
+        "customerId": 8,
+        "price": "30"
+    },
+    {
+        "customerId": 9,
+        "price": "120"
+    },
+    {
+        "customerId": 10,
+        "price": "508"
+    },
+    {
+        "customerId": 11,
+        "price": "797"
+    },
+    {
+        "customerId": 12,
+        "price": "469"
+    },
+    {
+        "customerId": 13,
+        "price": "124"
+    },
+    {
+        "customerId": 14,
+        "price": "234"
+    },
+    {
+        "customerId": 15,
+        "price": "1081"
+    },
+    {
+        "customerId": 16,
+        "price": "1126"
+    },
+    {
+        "customerId": 17,
+        "price": "224"
+    },
+    {
+        "customerId": 18,
+        "price": "435"
+    },
+    {
+        "customerId": 19,
+        "price": "1049"
+    },
+    {
+        "customerId": 20,
+        "price": "781"
+    },
+    {
+        "customerId": 21,
+        "price": "982"
+    },
+    {
+        "customerId": 22,
+        "price": "585"
+    },
+    {
+        "customerId": 23,
+        "price": "583"
+    },
+    {
+        "customerId": 24,
+        "price": "1097"
+    },
+    {
+        "customerId": 25,
+        "price": "127"
+    },
+    {
+        "customerId": 26,
+        "price": "218"
+    },
+    {
+        "customerId": 27,
+        "price": "467"
+    },
+    {
+        "customerId": 28,
+        "price": "521"
+    },
+    {
+        "customerId": 29,
+        "price": "618"
+    },
+    {
+        "customerId": 30,
+        "price": "986"
+    },
+    {
+        "customerId": 31,
+        "price": "1105"
+    },
+    {
+        "customerId": 32,
+        "price": "723"
+    },
+    {
+        "customerId": 33,
+        "price": "533"
+    },
+    {
+        "customerId": 34,
+        "price": "24"
+    },
+    {
+        "customerId": 35,
+        "price": "30"
+    },
+    {
+        "customerId": 36,
+        "price": "531"
+    },
+    {
+        "customerId": 37,
+        "price": "1142"
+    },
+    {
+        "customerId": 38,
+        "price": "1030"
+    },
+    {
+        "customerId": 39,
+        "price": "1241"
+    },
+    {
+        "customerId": 40,
+        "price": "833"
+    },
+    {
+        "customerId": 41,
+        "price": "1242"
+    },
+    {
+        "customerId": 42,
+        "price": "93"
+    },
+    {
+        "customerId": 43,
+        "price": "229"
+    },
+    {
+        "customerId": 44,
+        "price": "101"
+    },
+    {
+        "customerId": 45,
+        "price": "744"
+    },
+    {
+        "customerId": 46,
+        "price": "771"
+    },
+    {
+        "customerId": 47,
+        "price": "477"
+    },
+    {
+        "customerId": 48,
+        "price": "779"
+    },
+    {
+        "customerId": 49,
+        "price": "862"
+    },
+    {
+        "customerId": 50,
+        "price": "559"
+    },
+    {
+        "customerId": 51,
+        "price": "771"
+    },
+    {
+        "customerId": 52,
+        "price": "997"
+    },
+    {
+        "customerId": 53,
+        "price": "485"
+    },
+    {
+        "customerId": 54,
+        "price": "1078"
+    },
+    {
+        "customerId": 55,
+        "price": "666"
+    },
+    {
+        "customerId": 56,
+        "price": "1175"
+    },
+    {
+        "customerId": 57,
+        "price": "1062"
+    },
+    {
+        "customerId": 58,
+        "price": "527"
+    },
+    {
+        "customerId": 59,
+        "price": "652"
+    },
+    {
+        "customerId": 60,
+        "price": "657"
+    },
+    {
+        "customerId": 61,
+        "price": "775"
+    },
+    {
+        "customerId": 62,
+        "price": "1094"
+    },
+    {
+        "customerId": 63,
+        "price": "265"
+    },
+    {
+        "customerId": 64,
+        "price": "906"
+    },
+    {
+        "customerId": 65,
+        "price": "1155"
+    }
+]
